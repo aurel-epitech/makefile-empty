@@ -1,11 +1,11 @@
 fclean:
-    echo "fclean"
+	echo "fclean"
 
 clean:
-    echo "clean"
+	echo "clean"
 
 all:
-    echo "all"
+	echo "all"
 
 tests_run:
-    echo "tests"
+	echo "tests"
