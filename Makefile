@@ -7,5 +7,5 @@ clean:
 all:
   @echo "all"
 
-tests-run:
+tests_run:
   @echo "tests"
